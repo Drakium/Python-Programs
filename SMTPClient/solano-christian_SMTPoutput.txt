@@ -1,0 +1,31 @@
+Python 2.7.10 (default, May 23 2015, 09:40:32) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+testing if up to here
+220 smtp.gmail.com ESMTP cx5sm11384985pbc.50 - gsmtp
+
+test2
+250 smtp.gmail.com at your service
+
+test2
+220 2.0.0 Ready to start TLS
+
+334 VXNlcm5hbWU6
+
+334 UGFzc3dvcmQ6
+
+235 2.7.0 Accepted
+
+250 2.1.0 OK cx5sm11384985pbc.50 - gsmtp
+
+250 2.1.5 OK cx5sm11384985pbc.50 - gsmtp
+
+What would you like to send?: tittiiiieeesss
+354  Go ahead cx5sm11384985pbc.50 - gsmtp
+
+Quit
+
+250 2.0.0 OK 1446789724 cx5sm11384985pbc.50 - gsmtp
+
+>>> 
